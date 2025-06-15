@@ -3,6 +3,9 @@ name: Update badges
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write    
+
 jobs:
   update-readme:
     name: Update Readme with badges

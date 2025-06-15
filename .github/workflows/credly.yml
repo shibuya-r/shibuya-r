@@ -14,4 +14,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: ryusuke-shibuya
+          CREDLY_USER: ryusuke-shibuya.b10fd2f1
